@@ -407,8 +407,7 @@ nav .fas{
        height: 70px;
     }
     .btn.btn3{
-        margin-right: 30%;
-        align-items: center;
+        margin-inline-start: -10px;
     }
     nav ul{
         background: #18d7da;
@@ -441,7 +440,7 @@ nav .fas{
         margin-left: 50px;
     }
     .about-col-2,.about2{
-        font-size: 20px;
+        font-size: 15px;
         margin-right: 75px;
         
     }
