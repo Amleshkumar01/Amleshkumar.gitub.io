@@ -389,6 +389,9 @@ nav .fas{
        
 
     }
+    .header-text p{
+        margin-left: 20px;
+    }
     .header-text p.para{
         margin-top: 20px;
         margin-left: 20px;
@@ -406,8 +409,9 @@ nav .fas{
        width: 90px;
        height: 70px;
     }
+    
     .btn.btn3{
-        margin-inline-start: -10px;
+/*         margin-inline-start: -10px; */
     }
     nav ul{
         background: #18d7da;
